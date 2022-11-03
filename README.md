@@ -2,7 +2,6 @@
 ---
 ## Aslıhan Genç
 ---
-```
 https://app.patika.dev/aslhngencc
 
 
